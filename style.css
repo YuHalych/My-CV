@@ -1,0 +1,19 @@
+body{
+    list-style-type: none;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    background-color: black;
+}
+.header{
+    display: flex;
+}
+.main{
+    display: flex;
+}
+.image-pr{
+    display: block;
+    width: 33vh;
+}
+a{
+    text-decoration: none;
+}
